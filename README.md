@@ -1,2 +1,2 @@
-# Data-Structure-Algorithms
+# DSA
 Data Structure &amp; Algorithms 
