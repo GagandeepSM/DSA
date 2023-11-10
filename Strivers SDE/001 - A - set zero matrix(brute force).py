@@ -1,6 +1,6 @@
 '''
 Brute Force Approach
-Time complexity: O(m*n)
+Time complexity: O(M x N) x O(M + N) 
 Space complexity: O(1)
 '''
 
