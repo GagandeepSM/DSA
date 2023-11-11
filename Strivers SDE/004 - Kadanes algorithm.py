@@ -1,3 +1,10 @@
+'''
+Kadane's Algorithm - Optimal Solution
+Given an array arr of N integers. Find the contiguous sub-array with maximum sum.
+Time Complexity: O(n)
+Space Complexity: O(1)
+'''
+
 import sys
 def kadanes_algorithm(arr):
     maximum_sum = -sys.maxsize - 1
