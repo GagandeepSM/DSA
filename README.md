@@ -7,3 +7,4 @@ Table of content:-
     2. Pascals Triangle
     3. Next Permutation
     4. Kadane's Algorithm
+    5. DNF Problem
