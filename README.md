@@ -12,3 +12,4 @@ Table of content:-
     8. Merge overlapping intervals
     9. Merge sorted arrays
     10. Find missing & duplicates
+    11. Sample
