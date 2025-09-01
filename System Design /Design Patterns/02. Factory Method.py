@@ -1,3 +1,5 @@
+#Factory Method: Superclass defines a method, subclasses decide which object to create.
+
 class Shape:
     def draw(self):
         pass
